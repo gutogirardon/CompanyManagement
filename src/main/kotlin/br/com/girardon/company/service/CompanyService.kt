@@ -4,6 +4,7 @@ import br.com.girardon.company.exception.NotFoundException
 import br.com.girardon.company.model.Company
 import br.com.girardon.company.repository.CompanyRepository
 import br.com.girardon.company.repository.EmployeeRepository
+import br.com.girardon.company.request.CompanyRequest
 import org.springframework.stereotype.Service
 
 @Service
