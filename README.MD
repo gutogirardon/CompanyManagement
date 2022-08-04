@@ -29,3 +29,6 @@ Maven
 		 <artifactId>spring-boot-starter-data-mongodb</artifactId>
 	 </dependency>
   ```
+
+### 3) Documentation
+http://localhost:8080/swagger-ui/index.html
