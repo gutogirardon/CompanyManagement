@@ -23,9 +23,9 @@ Maven
          <groupId>org.springframework.boot</groupId>
          <artifactId>spring-boot-starter-web</artifactId>
 	 </dependency>
-		<!-- https://mvnrepository.com/artifact/org.springframework.boot/spring-boot-starter-data-mongodb -->
-		<dependency>
-			<groupId>org.springframework.boot</groupId>
-			<artifactId>spring-boot-starter-data-mongodb</artifactId>
-		</dependency>
+     <- https://mvnrepository.com/artifact/org.springframework.boot/spring-boot-starter-data-mongodb -->
+	 <dependency>
+	     <groupId>org.springframework.boot</groupId>
+		 <artifactId>spring-boot-starter-data-mongodb</artifactId>
+	 </dependency>
   ```
